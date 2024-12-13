@@ -143,5 +143,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Links
 
-- **Application**: [Bank Churn Prediction App](https://bankchurnapp-ezg2aec7a0fdd0bu.westeurope-01.azurewebsites.net/predict)
+- **Application**: [Bank Churn Prediction App](https://bankchurnapp-ezg2aec7a0fdd0bu.westeurope-01.azurewebsites.net)
 - **Presentation**: [Project Presentation](https://www.canva.com/design/DAGYuDJzdJQ/TT3ertJc374JX62Tmsf07w/edit?utm_content=DAGYuDJzdJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
